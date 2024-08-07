@@ -10,6 +10,12 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 
+## [v3.2.15] - 2024-08-07
+### Changed
+- @michaelshobbs Makefile: Build Docker image for linux/arm/v6
+- @dvallant Update go to 1.22
+- @dvallant Update dependencies
+
 ## [v3.2.14] - 2021-12-03
 ### Fixed
 - @0xflotus fix: typo error in project name
